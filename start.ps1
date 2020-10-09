@@ -1,2 +1,2 @@
-#. $PSScriptRoot\chocolatey\run.ps1
-. $PSScriptRoot\debloatapps\run.ps1
+$PSScriptRoot\chocolatey\run.ps1
+git clone https://github.com/CharlesZ54/windowsscripts.git

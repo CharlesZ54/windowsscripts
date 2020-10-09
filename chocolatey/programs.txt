@@ -34,5 +34,4 @@ vlc
 vscode
 w10privacy
 windirstat
-wireguard
 zoom

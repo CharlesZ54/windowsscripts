@@ -7,6 +7,7 @@ brave
 cryptomator
 discord
 epicgameslauncher
+firefox
 gimp
 git
 hwmonitor
@@ -40,5 +41,6 @@ vlc
 vscode
 windirstat
 WinPcap
+wireguard
 wireshark
 zoom

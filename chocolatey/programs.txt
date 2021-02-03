@@ -15,12 +15,8 @@ irfanview
 itunes
 lightshot
 logitech-options
-microsoft-windows-terminal
 mouse-jiggler
-nextdns
-nordvpn
 notepadplusplus
-open-shell
 PartitionMasterFree
 plex
 procexp
